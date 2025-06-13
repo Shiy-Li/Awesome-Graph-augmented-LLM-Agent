@@ -10,17 +10,17 @@ A curated list of awesome papers and resources on leveraging graph structures / 
 
 ## 🗺️ Table of Contents
 
-- [Single Agent](#single-agent)
-  - [🧠 Decision Making](#decision-making)
-  - [💾 Storage](#storage)
-  - [🔀 LLM Selection & Routing](#llm-selection--routing)
-  - [🛠️ Tool Management](#tool-management)
-- [Multi Agent](#multi-agent)
-  - [🕸️ Workflow Design](#workflow-design)
-  - [⚡ Efficiency](#efficiency)
-  - [🛡️ Safety](#safety)
-  - [📚 Knowledge-enhanced Collaboration](#knowledge-enhanced-collaboration)
-  - [✨ Others](#others)
+- [Single Agent](#👤-single-agent)
+  - [🧠 Decision Making](#🧠-decision-making)
+  - [💾 Storage](#💾-storage)
+  - [🔀 LLM Selection & Routing](#🔀-llm-selection--routing)
+  - [🛠️ Tool Management](#🛠️-tool-management)
+- [Multi Agent](#👥-multi-agent)
+  - [🕸️ Workflow Design](#🕸️-workflow-design)
+  - [⚡ Efficiency](#⚡-efficiency)
+  - [🛡️ Safety](#🛡️-safety)
+  - [📚 Knowledge-enhanced Collaboration](#📚-knowledge-enhanced-collaboration)
+  - [✨ Others](#✨-others)
 
 ---
 
