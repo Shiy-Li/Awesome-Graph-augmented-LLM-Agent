@@ -10,7 +10,7 @@ A curated list of awesome papers and resources on leveraging graph structures / 
 
 ## 🗺️ Table of Contents
 
-- [Single Agent](#👤-single-agent)
+- [Single Agent](#single-agent)
   - [🧠 Decision Making](#🧠-decision-making)
   - [💾 Storage](#💾-storage)
   - [🔀 LLM Selection & Routing](#🔀-llm-selection--routing)
@@ -24,7 +24,7 @@ A curated list of awesome papers and resources on leveraging graph structures / 
 
 ---
 
-## 👤 Single Agent
+## Single Agent
 
 ### 🧠 Decision Making
 - AFLOW: AUTOMATING AGENTIC WORKFLOW GENERATION (ICLR, 2025) 📄 [[paper]](https://arxiv.org/abs/2410.10762) 💻 [[code]](https://github.com/FoundationAgents/AFlow)
