@@ -10,7 +10,11 @@ A curated list of awesome papers and resources on leveraging graph structures / 
 
 ## 🗺️ Table of Contents
 
+<<<<<<< Updated upstream
 - [Single Agent](#single-agent)
+=======
+- [Single Agent](#👤-single-agent)
+>>>>>>> Stashed changes
   - [🧠 Decision Making](#🧠-decision-making)
   - [💾 Storage](#💾-storage)
   - [🔀 LLM Selection & Routing](#🔀-llm-selection--routing)
