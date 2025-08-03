@@ -1,4 +1,4 @@
-# Awesome-Graph4Agent-Systems
+# Awesome-Graph-augmented-LLM-Agent (GLA)
  [![Awesome](https://awesome.re/badge.svg)](https://github.com/RManLuo/Awesome-LLM-KG) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
   ![](https://img.shields.io/github/last-commit/Shiy-Li/Awesome-Graph4Agent-Systems?color=green) 
@@ -127,3 +127,17 @@ Contributions are welcome! If you have a paper or resource to add, please feel f
 Please ensure your submission follows this format:
 - `Paper Name (Conference / Journal, Year) 📄 [[paper]](link) 💻 [[code]](link)`
 
+---
+
+## Citation
+
+If you find this repository helpful for your work, please kindly cite:
+
+```bibtex
+@article{liu2025graph,
+  title={Graph-Augmented Large Language Model Agents: Current Progress and Future Prospects},
+  author={Liu, Yixin and Zhang, Guibin and Wang, Kun and Li, Shiyuan and Pan, Shirui},
+  journal={arXiv preprint arXiv:2501.02474},
+  year={2025}
+}
+```
