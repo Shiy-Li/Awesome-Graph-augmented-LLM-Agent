@@ -5,7 +5,7 @@
  ![](https://img.shields.io/github/stars/Shiy-Li/Awesome-Graph4Agent-Systems?color=yellow)
 ![](https://img.shields.io/github/forks/Shiy-Li/Awesome-Graph4Agent-Systems?color=lightblue) 
 
-A curated list of awesome papers and resources on leveraging graph structures / algorithm to enhance LLM-based Agent Systems.
+A curated list of awesome papers and resources on leveraging graph structures and algorithms to enhance LLM-based Agent Systems, accompanying our paper: **[Graph-Augmented Large Language Model Agents: Current Progress and Future Prospects](https://arxiv.org/pdf/2507.21407)**. 
 
 ## 🗺️ Table of Contents
 
