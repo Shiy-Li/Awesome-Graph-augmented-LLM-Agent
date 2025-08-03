@@ -17,7 +17,6 @@ A curated list of awesome papers and resources on leveraging graph structures / 
   - [🕸️ Graphs for MAS Orchestration](#🕸️-graphs-for-mas-orchestration)
   - [⚡ Graph for MAS Efficiency](#⚡-graph-for-mas-efficiency)
   - [🛡️ Graphs for Trustworthy MAS](#🛡️-graphs-for-trustworthy-mas)
-- [Future Directions](#future-directions)
 
 ---
 
