@@ -7,6 +7,8 @@
 
 A curated list of awesome papers and resources on leveraging graph structures and algorithms to enhance LLM-based Agent Systems, accompanying our paper: **[Graph-Augmented Large Language Model Agents: Current Progress and Future Prospects](https://arxiv.org/pdf/2507.21407)**. 
 
+## News
+ - Our paper has been accepted by IEEE Intelligent Systems!
 ## 🗺️ Table of Contents
 
 - [Graph-Augmented LLM Agent System Framework](#graph-augmented-llm-agent-system-framework)
